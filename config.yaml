@@ -8,7 +8,7 @@
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor training for instance)
 # incubator: The Carpentries Incubator
-carpentry: 'incubator'
+carpentry: 'lc'
 
 # Overall title for pages.
 title: 'Open Qualitative Research'
@@ -27,7 +27,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/ucla-imls-open-sci/open-qualitative-research'
+source: 'https://github.com/LibraryCarpentry/lc-open-qualitative-research'
 
 # Default branch of your lesson
 branch: 'main'
